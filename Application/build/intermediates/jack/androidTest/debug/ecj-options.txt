@@ -1,0 +1,1 @@
+"C:/Users/yedek_pc/AndroidStudioProjects/BluetoothLeGatt/Application/build/generated/source/buildConfig/androidTest/debug/com/example/android/bluetoothlegatt/test/BuildConfig.java"
